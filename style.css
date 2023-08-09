@@ -40,10 +40,60 @@ body {
     border: 1px solid #e1e1e1;
     padding: 15px;
     border-radius: 5px;
-    background-color: #f9f9f9;
-    /* Light Gray */
     transition: transform 0.2s;
 }
+
+
+/* Day-specific colors */
+
+.monday {
+    background-color: #f6c771;
+}
+
+
+/* Light Orange */
+
+.tuesday {
+    background-color: #87d1f5;
+}
+
+
+/* Light Blue */
+
+.wednesday {
+    background-color: #b4e2d2;
+}
+
+
+/* Light Green */
+
+.thursday {
+    background-color: #f694c2;
+}
+
+
+/* Light Pink */
+
+.friday {
+    background-color: #a994f6;
+}
+
+
+/* Light Purple */
+
+.saturday {
+    background-color: #d1d1d1;
+}
+
+
+/* Light Gray */
+
+.sunday {
+    background-color: #f4b1b1;
+}
+
+
+/* Light Red */
 
 .event h2 {
     font-size: 1.2rem;
